@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 25 12:09:22 2022
-
-@author: tt
-"""
+# Head and Tail functions in python
 import pandas as pd
 import numpy as np
 n=int(input('n=?'))

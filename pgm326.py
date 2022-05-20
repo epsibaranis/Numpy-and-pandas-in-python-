@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 20 19:00:40 2022
-
-@author: tt
-"""
+# print the array and set the datatype for array
 import numpy as np
 mynewdtype=[('Name:',(np.str_,20)),('Age:',np.int8),('Address:',(np.str_,200)),('Email-id:',(np.str_,50)),('Salary:',np.float16)]
 n1=input('Name:')

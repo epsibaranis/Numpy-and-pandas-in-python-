@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 25 11:33:27 2022
-
-@author: tt
-"""
+# print the panda series element by element
 import pandas as pd
 import numpy as np
 n=int(input('n=?'))

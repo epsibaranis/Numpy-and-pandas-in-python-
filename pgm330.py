@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 22 09:48:44 2022
-
-@author: tt
-"""
-
+#set the data type for array
 import numpy as np
 mynewdtype=[('Name:',(np.str_,20)),('Age:',np.int8),('Address:',(np.str_,200)),('Email-id:',(np.str_,50)),('Salary:',np.float16)]
 n=int(input('n=?'))
