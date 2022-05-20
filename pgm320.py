@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 20 10:25:39 2022
-
-@author: tt
-"""
-
+# data type ,random  integer array ,random real array
 import numpy as np
 a1=np.random.randint(-100,100,(5,5),dtype=np.int8)
 print('data type',a1.dtype)

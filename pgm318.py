@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 19 10:50:49 2022
-
-@author: tt
-"""
-
+#Transfer's Diagonal,Determinant in the matrix.0
 import numpy as np
 n=int(input('n=?'))
 a1=np.random.randint(0,10,(5,5))

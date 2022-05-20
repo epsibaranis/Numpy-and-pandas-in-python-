@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 19 09:38:30 2022
-
-@author: tt
-"""
-
+# pick the particular value in the array
 import numpy as np
 n=int(input('n=?'))
 a1=np.random.randint(0,10,(5,5))

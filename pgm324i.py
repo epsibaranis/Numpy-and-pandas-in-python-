@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 20 16:52:18 2022
-
-@author: tt
-"""
+# Biggest element of the row , column, smallest element of the row and column
 import numpy as np
 a1=np.loadtxt('pgm324.py')
 print(a1)

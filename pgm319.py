@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 19 11:27:05 2022
-
-@author: tt
-"""
-
+# sum of the column and row ,max of the column and row,min of the column and row
 import numpy as np
 n=int(input('n=?'))
 a1=np.random.randint(0,10,(5,5))

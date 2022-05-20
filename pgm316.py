@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 19 10:05:30 2022
-
-@author: tt
-"""
-
+# Addition, Subraction, Multiplication, Division, floor of the arrays.
 import numpy as np
 n=int(input('n=?'))
 a1=np.random.randint(0,100,(5,5))

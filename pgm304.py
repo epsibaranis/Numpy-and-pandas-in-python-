@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 25 11:38:37 2022
-
-@author: tt
-"""
-#pgm 304
+# sum,max,min,unique of the element in the array, unique value index,unique values counts, flip of the element in the array
 import numpy as np
 import random
 random.seed(0)

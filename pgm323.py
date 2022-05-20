@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 20 11:44:51 2022
-
-@author: tt
-"""
-
+# count of the positive number, negative number,zeroes number.
 import numpy as np
 a2=np.loadtxt('pgm321.py')
 x=0

@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 19 10:23:46 2022
-
-@author: tt
-"""
-
+#Sum, Difference, Product between to arrays
 import numpy as np
 n=int(input('n=?'))
 a1=np.random.randint(0,100,(5,5))

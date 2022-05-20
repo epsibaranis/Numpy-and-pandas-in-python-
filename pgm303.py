@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 25 10:24:26 2022
-
-@author: tt
-"""
-
+# Addition, subraction,multiplication,division, floor on two numpy arrays.
 import numpy as np
 import random
 random.seed(0)

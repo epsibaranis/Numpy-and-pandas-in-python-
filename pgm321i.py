@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 20 11:06:54 2022
-
-@author: tt
-"""
-
-
+# data type of the array and array
 import numpy as np
 import random
 n=10
