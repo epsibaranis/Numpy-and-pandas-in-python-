@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 28 10:56:05 2022
-
-@author: tt
-"""
+# pandas series
 import pandas as pd
 n=int(input('n=?'))
 d={}

@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 28 10:35:15 2022
-
-@author: tt
-"""
+# Data frame
 import pandas as pd
 month1=['January','March','May','July','September','November']
 rainfall1=[14,15,21,23,25,27]

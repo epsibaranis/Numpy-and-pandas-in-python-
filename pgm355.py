@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  3 10:13:39 2022
-
-@author: tt
-"""
+# using head, tail function in data frame
 import pandas as pd
 import numpy as np
 np.random.seed(0)

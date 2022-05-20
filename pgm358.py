@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May  4 10:48:33 2022
-
-@author: tt
-"""
+# Data frame
 import pandas as pd
 import numpy as np
 np.random.seed(0)
