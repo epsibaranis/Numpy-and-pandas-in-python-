@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 27 16:38:32 2022
-
-@author: tt
-"""
+# Scalar Addition in Series
 import pandas as pd
 month=['January','February','March','April','May','June','July','August','September','October','November','December']
 rainfall1=[14,15,21,23,25,27,29,31,33,35,37,39]

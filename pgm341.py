@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 26 11:42:55 2022
-
-@author: tt
-"""
+#Using functions in sum,max,min,product,mean
 import pandas as pd
 import numpy as np
 n=int(input('n=?'))
@@ -20,5 +15,3 @@ print('max:\n',x2)
 print('min:\n',x3)
 print('product:\n',x4)
 print('mean:\n',x5)
-
-

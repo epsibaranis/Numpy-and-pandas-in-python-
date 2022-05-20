@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 27 11:26:36 2022
-
-@author: tt
-"""
+#Using sort_values,sort_values(ascending=False),sort_index(),sort_index(ascending=False)
 import numpy as np
 import pandas as pd
 n=int(input('n=?'))

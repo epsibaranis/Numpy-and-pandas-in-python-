@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 26 11:21:01 2022
-
-@author: tt
-"""
+# Scalar addition in Series
 import pandas as pd
 import numpy as np
 n=int(input('n=?'))

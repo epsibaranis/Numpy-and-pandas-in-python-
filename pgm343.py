@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 26 17:15:19 2022
-
-@author: tt
-"""
+#using drop_duplicates function in Series
 import pandas as pd
 import numpy as np
 n=int(input('n=?'))

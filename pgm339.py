@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 26 10:55:33 2022
-
-@author: tt
-"""
+# vector addition in Series
 import pandas as pd
 import numpy as np
 n=int(input('n=?'))

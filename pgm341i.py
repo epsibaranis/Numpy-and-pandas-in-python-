@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 26 16:21:20 2022
-
-@author: tt
-"""
+# Using Describe functions in Series
 import pandas as pd
 import numpy as np
 n=int(input('n=?'))

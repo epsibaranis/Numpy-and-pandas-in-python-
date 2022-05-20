@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 27 10:54:40 2022
-
-@author: tt
-"""
+# using unique, nunique, value_counts
 import numpy as np
 import pandas as pd
 n=int(input('n=?'))

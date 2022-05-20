@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 26 16:40:31 2022
-
-@author: tt
-"""
+# using nlargest,nsmallest function in python
 import pandas as pd
 import numpy as np
 n=int(input('n=?'))

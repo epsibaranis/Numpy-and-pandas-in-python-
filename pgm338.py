@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 25 18:25:52 2022
-
-@author: tt
-"""
+#pandas series slicing
 import pandas as pd
 import numpy as np
 n=int(input('n=?'))
